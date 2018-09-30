@@ -2,3 +2,4 @@
 - arrow
 - flash
 - iron fist
+- ghoul
