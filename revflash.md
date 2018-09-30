@@ -3,3 +3,4 @@
 - flash
 - iron fist
 - ghoul
+- riverdale
